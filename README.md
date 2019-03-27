@@ -1,9 +1,11 @@
 # ENGG1340---Group-101---Money-Management-System
+
 Group 101 ENGG1340 Project’s scope
 Members: Daryl Kevin (3035555248), Welvin Bun (3035557117)
 ------------------------------------------------------------------------------------------------------------------------------------------
 The advancement of technology has shaped nowadays world. With its development being widely accelerated, a lot of innovations have provided eases to human generations. One of many products of technology which has been beneficial is money management system. Conventionally, people kept records of their daily expense on a piece of paper. This could rise problems when people are careless, such as losing the paper record of the expense or spilling something to the paper. Hence, in this project, we aim to create a modern money management system with some additional features which might be more efficient and versatile than the traditional model.
 We plan to have the following features in our system (Points with asterisk '*' represent the mandatory requirements from the description):
+
 1*	Allow users to simply add their activity records. This is simply divided into parts (money flow out and money come in).
 2*	Provide records’ details such as Date, types/uses, amount.
 3*.	Allow users to delete or edit their added records.
