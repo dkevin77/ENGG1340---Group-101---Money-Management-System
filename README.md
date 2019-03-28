@@ -5,10 +5,15 @@ Group 101 ENGG1340 Project’s scope
 Members: Daryl Kevin (3035555248), Welvin Bun (3035557117)
 ------------------------------------------------------------------------------------------------------------------------------------------
 Problem statement : (Problem description in general)
+
 One of the most important part of life is money. In everyday life, people use money to do transactions and fulfil their needs. Money acts as a universal measure of goods or services. Its value plays crucial role in humans’ life. Hence, it is obvious that people want to manage their money in the best way they can. This includes a good record system which is readable and efficient. Traditionally, people used piece of papers and pen to record their monetary flows. This might not be the best way since paper is an easily-destructible material. It might get lost or wet easily. Environmental concern also limits such conventional system which uses a lot of paper. 
+
 Problem setting : (Proposed solution & how it works)
+
 Considering such phenomenon, we come with our wealth management system as the solution! Our system utilizes the advancement of technology in the building processes. Your daily money uses records will be stored in much more efficient storage in a computer. It is easy, editable, and doesn’t require any paper. It fits nowadays world where people seek for easiness. Especially for University Students, our management system would easily help them in controlling their money while being far from parents.
+
 Features :
+
 To provide customers with maximal eases, our system comprises several features which are essential in recording their daily uses.
 1*	Add a new record (income or expense).
 
