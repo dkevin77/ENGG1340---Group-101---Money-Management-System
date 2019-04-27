@@ -1,0 +1,1500 @@
+03/10/2019 1 1 30500 Overnight Salary
+04/07/2019 2 5 Furniture 1100 Replacement of sofa
+08/11/2019 1 3 15000 Excecutive Choice Award
+13/07/2019 1 1 45000 Luncheon Voucher Payment
+01/09/2019 1 4 100 Diamond in the Rough
+12/10/2019 2 1 88 Morning Starbucks
+21/07/2019 1 1 65000 Travel Allowance
+22/08/2019 1 2 46000 Automobile Loan (BEA)
+20/02/2019 2 3 80 Street busking
+18/12/2019 2 2 50 Zara
+20/05/2019 1 5 Voluntary_Teaching 500 Reward as Best Voluntary Teacher
+09/03/2019 1 4 360 Diamond in the Rough
+17/05/2019 2 4 70 MTR from Central to HKU
+11/05/2019 1 2 5000 Credits
+28/11/2019 1 4 75 This and That Gifts
+23/01/2019 2 3 115 Street busking
+09/02/2019 1 1 40000 Monthly salary
+01/01/2019 1 1 35000 Meal Allowance
+26/12/2019 2 5 Automotive_Tax 1100 Monthly Car Tax
+01/07/2019 2 2 360 Hollister
+10/12/2019 1 2 74000 Business Loan
+14/10/2019 2 4 150 Bus 7
+14/12/2019 2 3 14.99 Movie Night
+17/05/2019 1 4 750 LEGO Gift Card
+17/12/2019 2 5 Communication 164 Monthly Prepaid SIM Card
+07/01/2019 2 5 Eletricity 64.22 Monthly House Eletricity Fee
+19/03/2019 1 1 35000 Payroll
+09/01/2019 2 2 49 AAPE
+04/05/2019 2 3 66 Street busking
+27/02/2019 1 2 10500 Commercial Real Estate Loan
+21/09/2019 1 5 SMP_Press 90 Comissionfrom Music Scores (SOLD)
+18/03/2019 1 3 9500 Wellcome Groceries Prize Redemption
+20/08/2019 1 2 31000 Business Loan
+03/07/2019 1 2 36000 Home Equity Loan (BOC)
+23/10/2019 2 3 44.99 LKF
+19/12/2019 2 2 139 G2000
+05/03/2019 2 5 Laundry 365 Monthly laundry
+15/11/2019 2 1 98.6 Lunch at Ebeenezer
+01/01/2019 1 5 SMP_Press 100 Comissionfrom Music Scores (SOLD)
+13/06/2019 2 4 50.64 Bus 40M
+27/08/2019 1 3 4400 Wellcome Groceries Prize Redemption
+07/05/2019 2 2 139 Adidas
+21/10/2019 2 2 285.2 BAPE
+01/04/2019 1 3 4400 Excecutive Choice Award
+14/12/2019 1 4 250 Hopscotch Toy Shop
+05/04/2019 2 4 6.5 Tram from HKU to Causeway Bay
+24/02/2019 1 4 75 Hopscotch Toy Shop
+01/12/2019 1 5 SMP_Press 740 Comissionfrom Music Scores (SOLD)
+07/11/2019 1 2 36000 Mortgages (Residential)
+16/03/2019 2 1 7.6 Thalassic Restaurant
+20/07/2019 2 3 40 LKF
+21/08/2019 1 2 10000 Automobile Loan (BEA)
+16/09/2019 2 5 Internet 300 Monthly Internet Browsing Fee
+01/04/2019 2 5 Electronics 60.99 Phone Repair
+14/11/2019 2 4 74.99 MTR from HKU to Central
+14/06/2019 1 1 36000 Travel Allowance
+06/01/2019 2 1 65.86 KFC
+24/04/2019 2 5 Eletricity 64.25 Monthly House Eletricity Fee
+11/09/2019 2 3 25.99 LKF
+07/06/2019 2 2 270 Hollister
+26/07/2019 1 2 22000 Credits
+18/07/2019 2 1 50.4 New Korean BBQ
+21/01/2019 2 5 Eletricity 365 Monthly House Eletricity Fee
+19/06/2019 1 5 SMP_Press 850 Comissionfrom Music Scores (SOLD)
+27/12/2019 2 1 98.6 Lunch at Ebeenezer
+22/02/2019 2 2 285.2 BAPE
+25/02/2019 2 2 49 G2000
+03/05/2019 1 5 Private_tutor 2200 Tutoring Mathematics for Primary School Students
+17/11/2019 2 3 47 Street busking
+14/07/2019 2 4 74.36 
+25/01/2019 1 1 4800 Overnight Salary
+09/07/2019 2 5 Communication 78.9 Monthly Prepaid SIM Card
+14/11/2019 1 1 500 Overnight Salary
+14/05/2019 2 3 50.64 Street busking
+17/09/2019 1 5 SMP_Press 740 Comissionfrom Music Scores (SOLD)
+05/01/2019 1 2 31000 Home Equity Loan (BOC)
+06/06/2019 2 5 Laundry 365 Monthly laundry
+21/03/2019 2 4 74.36 Tram from Causeway Bay to HKU
+16/06/2019 2 2 99 Bossini
+21/08/2019 1 4 160 This and That Gifts
+13/10/2019 2 3 50.64 Movie Night
+01/08/2019 2 4 36.99 Bus 40M
+14/05/2019 2 3 150 Singer Concert
+03/09/2019 2 2 270 Uniclo
+05/12/2019 1 4 360 The Warm House,Log Cabin Keepsakes
+13/11/2019 2 3 6.5 Movie Night
+13/05/2019 1 2 22000 Automobile Loan (BEA)
+10/04/2019 1 2 64000 Personal Loan (HSBC)
+26/07/2019 2 3 40 LKF
+19/06/2019 1 5 Photoshoot_Model 280 Paparazzi for Forbes Magazine
+11/01/2019 1 2 36000 Inventory Fee Loan
+15/07/2019 1 1 45000 Travel Allowance
+16/01/2019 1 4 320 Sunset Gift Card
+22/05/2019 2 5 Car_Maintenance 64.22 TESLA Color Finish
+08/02/2019 1 3 2300 Superbly Safe
+17/06/2019 1 3 2300 V21 Award
+26/10/2019 2 2 270 Nike
+19/06/2019 2 4 14.99 Bus 8x
+15/04/2019 1 4 500 LEGO Gift Card
+11/07/2019 2 1 47.12 Lunch at Ebeenezer
+16/09/2019 1 5 SMP_Press 950 Comissionfrom Music Scores (SOLD)
+07/12/2019 2 2 285.2 H&M
+16/03/2019 1 3 4100 Sales Incentives
+27/05/2019 1 5 SMP_Press 7.98123e-307 Comissionfrom Music Scores (SOLD)
+16/09/2019 1 5 SMP_Press 950 Comissionfrom Music Scores (SOLD)
+17/10/2019 1 2 10500 Residential Loan
+24/10/2019 2 4 36.99 Bus 8x
+27/11/2019 2 1 42.4 Sodexo
+06/10/2019 2 3 115 LKF
+10/07/2019 2 4 231 Bus 8x
+14/09/2019 1 4 250 Hopscotch Toy Shop
+18/04/2019 2 2 360 H&M
+25/03/2019 1 5 Photoshoot_Model 140 Paparazzi for Forbes Magazine
+22/02/2019 2 4 150 Tram from Causeway Bay to HKU
+27/09/2019 2 5 Redbox_Carriage 250 Storage for Summer
+18/02/2019 2 3 125.99 Street busking
+09/10/2019 1 2 15000 Credits
+19/06/2019 2 1 65.86 Yuan is Here
+28/04/2019 2 2 99 Adidas
+18/10/2019 2 5 Car_Maintenance 60.99 TESLA Color Finish
+18/08/2019 2 2 430.5 Uniclo
+15/05/2019 1 1 36000 Payroll
+10/03/2019 2 5 Internet 78.9 Monthly Internet Browsing Fee
+19/04/2019 2 5 Laundry 44.99 Monthly laundry
+10/12/2019 2 1 85 Shanghai Lao Lao
+20/07/2019 1 1 1800 Luncheon Voucher Payment
+18/06/2019 2 5 Kitchen_Utensils 78.9 New Dough Mixer
+25/10/2019 1 4 75 Heaven Sent Gift Delivery
+13/06/2019 1 3 3600 Absolute Attendance Reward
+22/06/2019 1 4 500 Clara's Cupboard
+27/09/2019 2 5 Internet 125 Monthly Internet Browsing Fee
+25/08/2019 2 3 40.99 Campus event
+26/02/2019 2 2 99 G2000
+21/09/2019 2 4 66 Central Ferry
+06/08/2019 1 2 15000 Credits
+06/03/2019 2 4 40 Tram from Causeway Bay to HKU
+13/05/2019 1 5 Private_tutor 90 Tutoring Mathematics for Primary School Students
+02/11/2019 2 5 Eletricity 64.25 Monthly House Eletricity Fee
+07/09/2019 1 2 20000 Home Equity Loan (BOC)
+14/08/2019 2 1 132 Lunch at Ebeenezer
+20/09/2019 2 3 21.87 Campus event
+24/07/2019 1 5 SMP_Press 850 Comissionfrom Music Scores (SOLD)
+12/02/2019 2 5 Postal_Fee 164 Received Post from my brother
+21/12/2019 1 2 46000 Industrial Loan
+21/07/2019 1 2 36000 Personal Loan (HSBC)
+01/08/2019 1 4 50 The Warm House,Log Cabin Keepsakes
+15/06/2019 1 5 Private_tutor 360 Tutoring Mathematics for Primary School Students
+19/08/2019 2 4 50.64 Bus 7
+21/10/2019 2 2 49 H&M
+05/09/2019 2 2 69 Zara
+21/02/2019 2 3 80 Singer Concert
+23/04/2019 2 1 45.512 Buffet at Langham Palace (TST)
+24/04/2019 2 1 64 Yuan is Here
+04/04/2019 1 3 1500 Associate Appretiation
+28/04/2019 1 2 48000 Personal Loan (HSBC)
+17/10/2019 1 2 76000 Personal Loan (HSBC)
+02/09/2019 2 2 430.5 AAPE
+23/09/2019 1 1 1000 Monthly salary
+04/01/2019 2 4 74.36 Central Ferry
+26/03/2019 2 4 80 Bus 90B
+10/09/2019 2 4 66 Bus 7
+13/06/2019 1 3 6500 Associate Appretiation
+11/04/2019 1 1 500 Additional Salary
+08/06/2019 2 4 14.99 Bus 8x
+15/05/2019 2 4 50.64 Tram from HKU to Causeway Bay
+08/02/2019 2 3 47 Campus event
+07/02/2019 1 2 46000 Mortgages (Residential)
+10/02/2019 2 2 75.66 Hollister
+21/03/2019 1 1 45000 Travel Allowance
+03/04/2019 2 2 364.9 AAPE
+17/07/2019 1 3 14000 Superbly Safe
+15/10/2019 1 3 700 V21 Award
+23/05/2019 1 2 36000 Home Equity Loan (BOC)
+16/12/2019 1 5 Voluntary_Teaching 745 Reward as Best Voluntary Teacher
+02/02/2019 1 3 1300 Wellcome Groceries Prize Redemption
+28/05/2019 2 4 14.99 Tram from HKU to Causeway Bay
+08/09/2019 2 5 Automotive_Tax 64.25 Monthly Car Tax
+26/03/2019 1 3 9500 Customer Service Awards
+19/11/2019 2 1 50.4 Lunch at Ebeenezer
+08/06/2019 1 1 60000 Meal Allowance
+08/08/2019 2 2 98.99 Converse
+13/08/2019 2 4 231 Bus 40M
+11/06/2019 1 3 16100 Superbly Safe
+22/03/2019 2 2 75.66 American Eagle
+22/09/2019 2 2 49 BAPE
+19/12/2019 1 1 60000 Travel Allowance
+13/11/2019 2 3 40.99 Movie Night
+24/04/2019 2 2 360 Hollister
+14/09/2019 2 4 74.36 Bus 54Bus 54M
+07/03/2019 1 3 30000 Positive participator 2019
+01/05/2019 2 2 123.3 Converse
+04/03/2019 1 2 88000 Inventory Fee Loan
+03/02/2019 2 4 74.36 MTR from HKU to Tsim Tsa Tsui
+06/10/2019 1 2 76000 Home Equity Loan (BOC)
+11/10/2019 1 2 99000 Personal Loan (HSBC)
+24/12/2019 1 4 360 Diamond in the Rough
+08/07/2019 1 2 36000 Automobile Loan (BEA)
+05/04/2019 2 5 Eletricity 78.9 Monthly House Eletricity Fee
+20/11/2019 1 5 Product_Endorsement 280 Make-up Endorse (Instagram)
+08/08/2019 1 5 Private_tutor 90 Tutoring Mathematics for Primary School Students
+20/08/2019 2 5 Groceries 1100 Essential Fruits and Vegetables
+07/06/2019 2 4 70 Tsim Tsa Tsui Ferry
+10/11/2019 1 1 8800 Travel Allowance
+16/04/2019 1 5 Private_tutor 88 Tutoring Mathematics for Primary School Students
+20/08/2019 2 4 80 MTR from Central to HKU
+09/08/2019 2 2 139 Hollister
+18/11/2019 1 5 Photoshoot_Model 3680 Paparazzi for Forbes Magazine
+05/01/2019 1 5 Photoshoot_Model 3680 Paparazzi for Forbes Magazine
+18/09/2019 1 3 700 Sales Incentives
+07/01/2019 2 2 119.99 Bossini
+14/09/2019 2 3 231 Movie Night
+27/12/2019 2 2 139 G2000
+10/01/2019 2 2 430.5 H&M
+14/12/2019 1 3 700 Fun Run (10K)
+07/08/2019 1 2 76000 Industrial Loan
+26/02/2019 2 1 29.12 Shanghai Lao Lao
+07/01/2019 2 2 98.99 Levis
+15/03/2019 2 5 Communication 68 Monthly Prepaid SIM Card
+18/04/2019 2 3 36.99 Street busking
+16/11/2019 2 2 69 Zara
+01/03/2019 1 4 6417048 Once Upon a Trinket
+25/02/2019 2 1 43 KFC
+25/12/2019 2 4 66 Bus 8x
+19/04/2019 1 2 48000 Home Equity Loan (BOC)
+02/10/2019 1 3 30000 Superbly Safe
+28/03/2019 2 4 21.87 MTR from Tsim Tsa Tsui to HKU
+17/05/2019 1 1 1800 Luncheon Voucher Payment
+10/02/2019 1 1 65000 Monthly salary
+11/06/2019 1 2 74000 Industrial Loan
+18/09/2019 2 2 119.99 Mango
+20/11/2019 2 2 99 Zara
+26/07/2019 1 4 500 Riverside Gift Shop
+27/11/2019 1 1 9900 Health Insurance Coverage
+27/04/2019 2 2 528.6 Bossini
+02/01/2019 1 4 6417048 Clara's Cupboard
+19/03/2019 1 5 Product_Endorsement 88 Make-up Endorse (Instagram)
+25/01/2019 1 4 140 Hopscotch Toy Shop
+03/09/2019 1 4 50 The Warm House,Log Cabin Keepsakes
+18/11/2019 2 4 36.99 Bus 7
+27/02/2019 1 1 60000 Payroll
+24/04/2019 1 4 60 Gifts of Love
+02/04/2019 2 5 Internet 250 Monthly Internet Browsing Fee
+28/02/2019 2 4 150 MTR from Central to HKU
+04/03/2019 1 4 99 Glorious Gifts Shop
+24/07/2019 1 1 36000 Base Pay
+21/04/2019 2 4 40 Bus 54Bus 54M
+26/12/2019 1 5 SMP_Press 250.5 Comissionfrom Music Scores (SOLD)
+04/01/2019 2 4 115 MTR from Tsim Tsa Tsui to HKU
+04/07/2019 1 2 9800 Business Loan
+12/03/2019 1 1 36000 Base Pay
+02/03/2019 1 3 9500 V21 Award
+22/05/2019 2 2 270 American Eagle
+11/03/2019 1 4 80 Sunset Gift Card
+23/01/2019 2 1 88 Compulsary McDonald Breakfast
+12/01/2019 2 3 40.99 Movie Night
+08/05/2019 1 5 Product_Endorsement 110 Make-up Endorse (Instagram)
+18/07/2019 1 1 500 Meal Allowance
+24/04/2019 2 4 80 Bus 970X
+11/03/2019 2 2 75.66 Levis
+13/01/2019 2 4 44.99 
+02/12/2019 2 2 285.2 Mango
+01/03/2019 1 5 SMP_Press 360 Comissionfrom Music Scores (SOLD)
+27/04/2019 2 4 36.99 Central Ferry
+22/10/2019 1 4 50 Hopscotch Toy Shop
+05/04/2019 1 3 800 Prime Participation
+21/06/2019 1 2 10500 Mortgages (Residential)
+02/01/2019 1 5 Voluntary_Teaching 360 Reward as Best Voluntary Teacher
+11/09/2019 2 3 115 Campus event
+24/05/2019 2 3 66 LKF
+10/06/2019 1 5 Private_tutor 2200 Tutoring Mathematics for Primary School Students
+01/01/2019 1 3 45000 Customer Service Awards
+18/04/2019 1 4 320 This Old Attic
+20/08/2019 2 1 37 North Viet Pho
+10/11/2019 2 2 139 Nike
+09/05/2019 1 1 7000 Monthly Commisions
+21/05/2019 2 4 115 Bus 7
+12/08/2019 1 5 Private_tutor 2200 Tutoring Mathematics for Primary School Students
+12/04/2019 1 4 50 Diamond in the Rough
+05/11/2019 2 4 25.99 MTR from Central to HKU
+22/08/2019 2 1 78.7 Thalassic Restaurant
+07/11/2019 1 5 Product_Endorsement 745 Make-up Endorse (Instagram)
+22/11/2019 1 5 SMP_Press 850 Comissionfrom Music Scores (SOLD)
+01/08/2019 2 3 40.99 Movie Night
+16/08/2019 2 5 Internet 44.99 Monthly Internet Browsing Fee
+21/06/2019 1 2 25000 Residential Loan
+27/12/2019 2 2 119.99 G2000
+23/04/2019 1 2 99000 Automobile Loan (BEA)
+22/06/2019 2 1 56 Morning Starbucks
+20/07/2019 1 4 99 Riverside Gift Shop
+16/01/2019 1 3 15000 Prime Participation
+04/11/2019 1 3 45000 Superbly Safe
+01/04/2019 2 2 119.99 Zara
+25/04/2019 1 1 500 Health Insurance Coverage
+06/02/2019 1 4 360 To You and For me (Gift Card)
+13/12/2019 1 4 90 Heaven Sent Gift Delivery
+23/06/2019 2 5 Redbox_Carriage 44.99 Storage for Summer
+22/07/2019 1 1 500 Monthly salary
+24/08/2019 1 4 6417048 Riverside Gift Shop
+16/04/2019 2 3 66 Movie Night
+13/04/2019 2 5 Car_Maintenance 36.2 TESLA Color Finish
+04/06/2019 2 4 74.36 Central Ferry
+15/07/2019 2 4 74.99 Central Ferry
+15/06/2019 2 5 Redbox_Carriage 250 Storage for Summer
+11/05/2019 1 1 43000 Travel Allowance
+24/11/2019 2 4 231 Bus 970X
+11/02/2019 1 3 6500 Positive participator 2019
+06/06/2019 2 4 47 MTR from HKU to Tsim Tsa Tsui
+12/12/2019 2 5 Postal_Fee 44.99 Received Post from my brother
+08/12/2019 1 4 500 To You and For me (Gift Card)
+01/04/2019 1 1 3600 Payroll
+15/08/2019 2 2 123.3 Giordano
+14/11/2019 2 2 528.6 Converse
+22/09/2019 1 3 10000 Excecutive Choice Award
+14/12/2019 1 4 150 Heaven Sent Gift Delivery
+27/08/2019 1 1 45000 Luncheon Voucher Payment
+24/07/2019 2 3 14.99 Campus event
+01/07/2019 1 1 7000 Payroll
+12/04/2019 1 3 3600 Absolute Attendance Reward
+13/06/2019 2 5 Laundry 44.99 Monthly laundry
+05/04/2019 2 4 80 Tram from Causeway Bay to HKU
+26/09/2019 2 1 132 Thalassic Restaurant
+14/07/2019 2 5 Automotive_Tax 250 Monthly Car Tax
+12/09/2019 1 1 20000 Additional Salary
+06/11/2019 2 5 Eletricity 75.99 Monthly House Eletricity Fee
+06/11/2019 1 5 Product_Endorsement 140 Make-up Endorse (Instagram)
+07/12/2019 1 4 220 202 Whimsical Gift
+03/10/2019 2 2 449 American Eagle
+06/09/2019 2 1 29.12 New Korean BBQ
+15/05/2019 2 4 125.99 MTR from Central to HKU
+20/06/2019 2 4 25.99 Bus 54Bus 54M
+10/01/2019 1 4 60 Sunset Gift Card
+11/04/2019 2 1 65.86 Morning Starbucks
+06/10/2019 2 4 36.99 MTR from HKU to Tsim Tsa Tsui
+28/05/2019 2 3 21.87 Singer Concert
+12/12/2019 1 1 45000 Overnight Salary
+28/03/2019 1 2 20000 Credits
+12/12/2019 1 4 360 Heaven Sent Gift Delivery
+14/02/2019 1 2 76000 Mortgages (Residential)
+14/05/2019 1 3 14000 Wellcome Groceries Prize Redemption
+20/08/2019 1 4 750 Once Upon a Trinket
+23/01/2019 1 4 60 Once Upon a Trinket
+15/05/2019 2 4 50.64 Tram from Causeway Bay to HKU
+12/03/2019 1 5 Product_Endorsement 250.5 Make-up Endorse (Instagram)
+27/07/2019 2 1 47.12 HKU CYM
+08/10/2019 2 5 Water_Fee 64.22 Monthly Water Supply Fee
+22/12/2019 2 5 Furniture 85 Replacement of sofa
+25/02/2019 2 3 125.99 Singer Concert
+06/02/2019 1 5 Product_Endorsement 360 Make-up Endorse (Instagram)
+13/10/2019 1 3 800 Prime Participation
+19/03/2019 1 3 10000 Lottery win Jockey Club
+14/06/2019 1 3 3500 Fun Run (5K)
+01/02/2019 2 4 80 MTR from HKU to Central
+19/09/2019 2 1 98.6 Fresco dim sum
+21/04/2019 2 5 Communication 64.22 Monthly Prepaid SIM Card
+11/10/2019 1 5 Product_Endorsement 850 Make-up Endorse (Instagram)
+16/10/2019 1 4 360 Sunset Gift Card
+23/07/2019 2 3 50.64 LKF
+18/07/2019 2 1 78.7 Dinner in Tim Ho Wan
+04/11/2019 2 4 44.99 Bus 90B
+26/09/2019 1 1 30500 Monthly Commisions
+26/09/2019 1 3 45000 Positive participator 2019
+25/01/2019 1 2 64000 Automobile Loan (BEA)
+08/08/2019 2 4 74.99 
+07/07/2019 1 4 50 Charming Treasures
+16/08/2019 2 3 70 Street busking
+24/03/2019 2 1 98.6 Shanghai Lao Lao
+17/01/2019 2 5 Furniture 125 Replacement of sofa
+03/09/2019 1 2 25000 Home Equity Loan (BOC)
+10/04/2019 2 4 150 MTR from Central to HKU
+17/06/2019 1 1 99000 Travel Allowance
+13/03/2019 1 5 Product_Endorsement 100 Make-up Endorse (Instagram)
+25/03/2019 2 4 47 
+26/09/2019 1 4 99 Once Upon a Trinket
+11/02/2019 2 3 21.87 Street busking
+21/01/2019 2 1 88 Fresco dim sum
+13/11/2019 1 1 30500 Monthly salary
+25/01/2019 2 5 Furniture 60.99 Replacement of sofa
+28/01/2019 1 5 Photoshoot_Model 360 Paparazzi for Forbes Magazine
+06/02/2019 1 2 9800 Automobile Loan (BEA)
+04/06/2019 2 2 559 Zara
+21/07/2019 2 5 Postal_Fee 64.22 Received Post from my brother
+27/11/2019 2 4 70 Tram from Causeway Bay to HKU
+18/12/2019 2 3 25.99 Street busking
+11/08/2019 1 3 3500 V21 Award
+23/12/2019 1 5 Photoshoot_Model 740 Paparazzi for Forbes Magazine
+18/02/2019 1 1 36000 Additional Salary
+18/05/2019 1 5 Photoshoot_Model 155 Paparazzi for Forbes Magazine
+08/06/2019 1 5 Private_tutor 500 Tutoring Mathematics for Primary School Students
+03/02/2019 1 1 1000 Luncheon Voucher Payment
+22/10/2019 2 3 74.99 Street busking
+04/05/2019 1 3 700 Lottery win Jockey Club
+23/01/2019 2 5 Kitchen_Utensils 75.99 New Dough Mixer
+09/07/2019 2 1 50.4 HKU CYM
+24/08/2019 1 1 2750 Additional Salary
+28/05/2019 1 1 1800 Monthly salary
+16/03/2019 1 2 22000 Credits
+28/09/2019 2 4 74.99 MTR from Central to HKU
+04/05/2019 1 2 9500 Inventory Fee Loan
+25/09/2019 1 5 Voluntary_Teaching 100 Reward as Best Voluntary Teacher
+24/03/2019 1 3 14000 Prime Participation
+24/05/2019 2 2 69 Converse
+02/02/2019 2 1 39.88 Sodexo
+19/03/2019 2 3 21.87 Singer Concert
+15/03/2019 2 1 47.12 Dinner in Tim Ho Wan
+27/03/2019 2 5 Furniture 250 Replacement of sofa
+03/07/2019 2 3 47 LKF
+17/04/2019 1 3 3600 Superbly Safe
+09/03/2019 1 1 3600 Additional Salary
+26/10/2019 1 1 4800 Monthly Commisions
+20/10/2019 2 4 6.5 Bus 40M
+26/01/2019 2 3 21.87 Singer Concert
+24/10/2019 1 2 20000 Inventory Fee Loan
+27/06/2019 1 2 9500 Mortgages (Residential)
+07/07/2019 2 1 74 Yuan is Here
+22/04/2019 1 4 50 Clara's Cupboard
+10/10/2019 1 5 SMP_Press 110 Comissionfrom Music Scores (SOLD)
+02/05/2019 2 5 Laundry 68 Monthly laundry
+07/01/2019 1 1 43000 Monthly salary
+24/02/2019 1 5 Private_tutor 250.5 Tutoring Mathematics for Primary School Students
+13/02/2019 1 2 99000 Residential Loan
+18/11/2019 1 3 30000 Positive participator 2019
+15/01/2019 1 4 750 Diamond in the Rough
+27/02/2019 2 3 25.99 Singer Concert
+21/10/2019 2 2 99.99 Hollister
+08/07/2019 2 5 Postal_Fee 44.99 Received Post from my brother
+16/04/2019 2 4 44.99 Tram from HKU to Causeway Bay
+04/09/2019 1 1 35000 Travel Allowance
+11/03/2019 2 4 14.99 Bus 90B
+21/04/2019 1 1 99000 Luncheon Voucher Payment
+25/03/2019 1 3 16100 Wellcome Groceries Prize Redemption
+12/06/2019 2 1 85 Lunch at Ebeenezer
+09/09/2019 1 5 Photoshoot_Model 100 Paparazzi for Forbes Magazine
+25/01/2019 1 5 Product_Endorsement 280 Make-up Endorse (Instagram)
+24/02/2019 2 5 Kitchen_Utensils 164 New Dough Mixer
+05/05/2019 2 2 49 Mango
+15/11/2019 1 4 90 Sunset Gift Card
+12/11/2019 1 5 Photoshoot_Model 360 Paparazzi for Forbes Magazine
+17/08/2019 1 4 750 Riverside Gift Shop
+24/02/2019 2 2 99 Mango
+06/12/2019 2 5 Housing 125 LED Bulbs
+02/06/2019 2 5 Electronics 550 Phone Repair
+20/12/2019 1 2 99000 Personal Loan (HSBC)
+06/10/2019 1 3 45000 3 Cheers
+17/06/2019 2 4 14.99 Bus 8x
+13/08/2019 1 1 20000 Monthly salary
+18/12/2019 2 2 528.6 BAPE
+24/07/2019 2 4 21.87 Bus 970X
+02/05/2019 2 3 47 LKF
+21/12/2019 2 2 50 Mango
+26/07/2019 1 3 700 Superbly Safe
+09/05/2019 2 2 50 Bossini
+28/10/2019 1 3 3500 Superbly Safe
+09/10/2019 2 3 50.64 Movie Night
+18/01/2019 1 1 65000 Meal Allowance
+06/01/2019 2 2 270 Bossini
+28/02/2019 1 5 Product_Endorsement 500 Make-up Endorse (Instagram)
+21/10/2019 1 1 20000 Monthly salary
+21/07/2019 1 3 4100 3 Cheers
+03/03/2019 1 3 14000 Absolute Attendance Reward
+26/07/2019 1 1 9900 Base Pay
+16/04/2019 1 2 36000 Commercial Real Estate Loan
+20/10/2019 2 3 40.99 Street busking
+15/06/2019 2 4 6.5 Bus 970X
+16/12/2019 2 5 Car_Maintenance 36.2 TESLA Color Finish
+17/08/2019 2 1 7.6 Compulsary McDonald Breakfast
+16/07/2019 1 5 Photoshoot_Model 2200 Paparazzi for Forbes Magazine
+10/06/2019 2 3 74.36 Singer Concert
+16/11/2019 1 1 1000 Payroll
+21/05/2019 2 2 98.99 Hollister
+04/06/2019 1 4 360 This and That Gifts
+06/03/2019 1 1 2750 Payroll
+20/09/2019 1 3 6500 Associate Appretiation
+17/08/2019 1 1 9900 Monthly salary
+14/09/2019 1 3 9500 Fun Run (5K)
+08/05/2019 1 5 Photoshoot_Model 360 Paparazzi for Forbes Magazine
+23/06/2019 2 1 120 Lunch at Ebeenezer
+22/12/2019 1 1 36000 Monthly Commisions
+21/08/2019 1 3 4100 Fun Run (10K)
+07/03/2019 1 2 36000 Automobile Loan (BEA)
+07/03/2019 1 5 Product_Endorsement 250.5 Make-up Endorse (Instagram)
+23/05/2019 1 3 1500 Wellcome Groceries Prize Redemption
+14/02/2019 2 1 98.6 Thalassic Restaurant
+06/11/2019 2 2 119.99 Converse
+19/06/2019 1 1 99000 Travel Allowance
+19/04/2019 2 2 285.2 Mango
+05/08/2019 1 3 6500 Hackathon 2019
+04/07/2019 2 5 Furniture 68 Replacement of sofa
+05/11/2019 1 3 9500 Wellcome Groceries Prize Redemption
+18/11/2019 1 1 45000 Health Insurance Coverage
+27/11/2019 2 4 47 Bus 970X
+01/11/2019 1 3 700 Hackathon 2019
+07/07/2019 2 5 Kitchen_Utensils 550 New Dough Mixer
+11/04/2019 1 1 30500 Base Pay
+12/08/2019 1 4 220 Hopscotch Toy Shop
+08/08/2019 1 1 35000 Base Pay
+28/11/2019 2 5 Housing 550 LED Bulbs
+17/08/2019 1 2 76000 Industrial Loan
+17/08/2019 1 2 5000 Industrial Loan
+18/12/2019 1 4 360 202 Whimsical Gift
+22/04/2019 1 4 150 Riverside Gift Shop
+12/02/2019 1 2 28000 Industrial Loan
+13/08/2019 2 3 66 Movie Night
+19/05/2019 2 1 42.4 Sodexo
+15/02/2019 1 5 SMP_Press 110 Comissionfrom Music Scores (SOLD)
+27/08/2019 2 4 74.36 MTR from Central to HKU
+13/07/2019 2 1 43 Thalassic Restaurant
+18/06/2019 2 2 285.2 American Eagle
+07/02/2019 2 2 285.2 Uniclo
+06/02/2019 2 1 29.12 Morning Starbucks
+14/05/2019 1 3 14000 Prime Participation
+04/10/2019 1 1 500 Additional Salary
+02/11/2019 2 5 Postal_Fee 40.85 Received Post from my brother
+24/01/2019 1 5 Photoshoot_Model 7.98123e-307 Paparazzi for Forbes Magazine
+07/01/2019 2 2 174.6 Adidas
+10/06/2019 2 4 74.36 Tsim Tsa Tsui Ferry
+28/07/2019 2 5 Water_Fee 68 Monthly Water Supply Fee
+16/04/2019 2 2 364.9 Adidas
+26/04/2019 2 3 74.36 Campus event
+17/02/2019 1 3 700 V21 Award
+11/08/2019 1 4 60 Riverside Gift Shop
+26/10/2019 1 4 75 The Warm House,Log Cabin Keepsakes
+19/07/2019 1 3 1000 Lottery win Jockey Club
+19/05/2019 1 3 45000 Lottery win Jockey Club
+05/12/2019 1 3 6500 Hackathon 2019
+08/05/2019 2 1 42.4 New Korean BBQ
+10/11/2019 2 4 231 
+17/12/2019 2 2 99 American Eagle
+13/10/2019 1 4 220 LEGO Gift Card
+12/03/2019 2 1 132 Dinner in Tim Ho Wan
+03/01/2019 1 1 45000 Monthly Commisions
+25/09/2019 1 5 Photoshoot_Model 88 Paparazzi for Forbes Magazine
+05/08/2019 2 5 Internet 125 Monthly Internet Browsing Fee
+15/01/2019 1 3 4400 Excecutive Choice Award
+14/06/2019 1 4 500 Charming Treasures
+16/06/2019 1 5 Voluntary_Teaching 360.5 Reward as Best Voluntary Teacher
+28/03/2019 2 4 36.99 Bus 8x
+13/06/2019 1 3 4400 Sales Incentives
+01/01/2019 1 4 75 The Warm House,Log Cabin Keepsakes
+27/05/2019 1 5 Photoshoot_Model 320 Paparazzi for Forbes Magazine
+07/03/2019 1 1 4800 Meal Allowance
+18/07/2019 1 4 150 To You and For me (Gift Card)
+28/11/2019 1 3 2300 Positive participator 2019
+12/04/2019 2 4 40 Bus 8x
+18/02/2019 2 3 44.99 Campus event
+08/02/2019 1 2 76000 Automobile Loan (BEA)
+18/08/2019 1 1 500 Overnight Salary
+05/09/2019 1 1 1800 Additional Salary
+06/04/2019 1 1 3600 Travel Allowance
+24/06/2019 2 5 Kitchen_Utensils 85 New Dough Mixer
+05/08/2019 2 4 40.99 MTR from Tsim Tsa Tsui to HKU
+17/04/2019 2 1 132 Shanghai Lao Lao
+18/10/2019 2 5 Housing 64.22 LED Bulbs
+13/03/2019 2 5 Electronics 164 Phone Repair
+24/11/2019 1 5 Product_Endorsement 90 Make-up Endorse (Instagram)
+08/06/2019 2 1 7.6 KFC
+05/01/2019 2 1 64 Residential College Vending Machine
+22/09/2019 2 1 64 Residential College Vending Machine
+28/03/2019 1 2 64000 Automobile Loan (BEA)
+09/02/2019 2 5 Laundry 44.99 Monthly laundry
+24/06/2019 2 3 50.64 Campus event
+18/04/2019 1 1 1000 Payroll
+06/10/2019 2 4 25.99 Bus 54Bus 54M
+20/12/2019 1 4 360 Riverside Gift Shop
+18/01/2019 2 5 Redbox_Carriage 78.9 Storage for Summer
+17/02/2019 1 3 10000 Customer Service Awards
+21/08/2019 1 2 74000 Automobile Loan (BEA)
+24/01/2019 1 1 1800 Payroll
+02/12/2019 1 2 36000 Industrial Loan
+14/06/2019 2 2 139 AAPE
+19/08/2019 1 4 360 This and That Gifts
+28/07/2019 2 4 115 Bus 90B
+13/12/2019 2 4 40 MTR from HKU to Tsim Tsa Tsui
+28/10/2019 2 1 88 North Viet Pho
+23/12/2019 1 2 25000 Home Equity Loan (BOC)
+16/11/2019 2 3 36.99 Movie Night
+27/05/2019 2 3 231 LKF
+20/10/2019 2 5 Car_Maintenance 365 TESLA Color Finish
+10/03/2019 2 3 80 LKF
+27/01/2019 1 4 100 To You and For me (Gift Card)
+01/01/2019 2 2 99 H&M
+12/02/2019 2 2 139 Adidas
+04/05/2019 2 1 50.4 New Korean BBQ
+17/08/2019 1 4 220 202 Whimsical Gift
+23/07/2019 2 1 64 Morning Starbucks
+27/03/2019 2 3 6.5 Street busking
+06/08/2019 1 5 SMP_Press 3680 Comissionfrom Music Scores (SOLD)
+24/09/2019 1 4 80 Gifts of Love
+01/10/2019 1 4 60 This and That Gifts
+02/02/2019 1 4 60 Hopscotch Toy Shop
+08/10/2019 2 4 6.5 Bus 970X
+21/11/2019 1 3 1500 Sales Incentives
+20/01/2019 2 4 150 MTR from Tsim Tsa Tsui to HKU
+03/11/2019 2 3 150 Singer Concert
+22/08/2019 2 1 50.4 Compulsary McDonald Breakfast
+10/06/2019 1 3 3600 3 Cheers
+12/10/2019 1 2 15000 Personal Loan (HSBC)
+18/10/2019 1 3 10000 Wellcome Groceries Prize Redemption
+13/11/2019 2 1 39.88 KFC
+15/10/2019 1 5 SMP_Press 745 Comissionfrom Music Scores (SOLD)
+01/06/2019 1 3 3500 Associate Appretiation
+10/09/2019 1 5 Product_Endorsement 3680 Make-up Endorse (Instagram)
+02/11/2019 2 3 260 Campus event
+11/07/2019 1 1 43000 Health Insurance Coverage
+20/06/2019 2 3 36.99 Movie Night
+14/11/2019 2 1 43 He She It Dessert
+27/06/2019 1 5 SMP_Press 850 Comissionfrom Music Scores (SOLD)
+19/05/2019 2 1 45.512 Yuan is Here
+25/01/2019 1 4 500 202 Whimsical Gift
+03/05/2019 2 4 74.99 Tram from HKU to Causeway Bay
+23/11/2019 2 1 64 Lunch at Ebeenezer
+04/07/2019 2 5 Automotive_Tax 125 Monthly Car Tax
+22/06/2019 1 4 360 LEGO Gift Card
+15/05/2019 2 2 528.6 G2000
+21/10/2019 1 2 9500 Credits
+16/06/2019 1 3 3500 Wellcome Groceries Prize Redemption
+12/01/2019 1 5 Private_tutor 110 Tutoring Mathematics for Primary School Students
+17/09/2019 1 3 45000 Absolute Attendance Reward
+01/08/2019 1 1 20000 Meal Allowance
+07/02/2019 2 2 98.99 Uniclo
+23/07/2019 2 4 150 
+26/11/2019 2 3 40 LKF
+05/02/2019 1 2 74000 Business Loan
+16/06/2019 1 1 1000 Monthly salary
+13/05/2019 1 1 3600 Monthly Commisions
+03/12/2019 1 4 99 This and That Gifts
+24/02/2019 2 1 45.512 HKU CYM
+11/10/2019 1 4 75 Sunset Gift Card
+03/12/2019 2 4 260 MTR from HKU to Central
+06/11/2019 1 1 60000 Meal Allowance
+23/02/2019 2 3 25.99 Singer Concert
+26/05/2019 1 4 140 Once Upon a Trinket
+25/12/2019 2 2 270 Uniclo
+13/10/2019 1 5 Voluntary_Teaching 745 Reward as Best Voluntary Teacher
+02/09/2019 2 1 132 Buffet at Langham Palace (TST)
+26/09/2019 2 2 174.6 BAPE
+09/07/2019 2 3 47 Movie Night
+04/10/2019 1 4 60 The Warm House,Log Cabin Keepsakes
+13/12/2019 2 3 70 Movie Night
+22/05/2019 1 5 SMP_Press 90 Comissionfrom Music Scores (SOLD)
+25/09/2019 2 3 25.99 Street busking
+01/09/2019 1 3 30000 Sales Incentives
+09/07/2019 1 5 Photoshoot_Model 950 Paparazzi for Forbes Magazine
+09/04/2019 1 5 Photoshoot_Model 360.5 Paparazzi for Forbes Magazine
+04/12/2019 2 3 150 Singer Concert
+17/02/2019 2 1 50.4 Thalassic Restaurant
+11/03/2019 1 4 80 Hopscotch Toy Shop
+10/07/2019 2 2 279 Uniclo
+03/11/2019 2 3 47 Street busking
+02/05/2019 2 5 Electronics 78.9 Phone Repair
+02/09/2019 1 3 700 Fun Run (5K)
+26/09/2019 1 4 99 Glorious Gifts Shop
+22/09/2019 2 4 150 Bus 40M
+16/01/2019 2 1 64 Lunch at Ebeenezer
+23/06/2019 2 2 69 Bossini
+22/07/2019 1 5 SMP_Press 850 Comissionfrom Music Scores (SOLD)
+03/05/2019 1 5 Voluntary_Teaching 850 Reward as Best Voluntary Teacher
+23/08/2019 1 5 Photoshoot_Model 250.5 Paparazzi for Forbes Magazine
+19/12/2019 1 2 22000 Mortgages (Residential)
+03/07/2019 2 3 150 Singer Concert
+28/02/2019 1 2 46000 Industrial Loan
+02/07/2019 2 5 Postal_Fee 300 Received Post from my brother
+01/01/2019 2 1 120 Dinner in Tim Ho Wan
+20/03/2019 1 5 Voluntary_Teaching 2200 Reward as Best Voluntary Teacher
+11/11/2019 2 3 74.36 Movie Night
+12/09/2019 2 4 150 Bus 40M
+11/05/2019 2 2 528.6 Zara
+09/10/2019 1 2 25000 Inventory Fee Loan
+11/01/2019 2 4 150 Bus 40M
+28/08/2019 1 4 90 Sunset Gift Card
+08/10/2019 1 1 35000 Health Insurance Coverage
+03/07/2019 1 1 2750 Monthly salary
+02/10/2019 2 1 43 Thalassic Restaurant
+26/12/2019 2 4 40 MTR from HKU to Tsim Tsa Tsui
+01/11/2019 1 2 25000 Inventory Fee Loan
+25/11/2019 2 1 64 Fresco dim sum
+11/10/2019 1 5 SMP_Press 2200 Comissionfrom Music Scores (SOLD)
+18/01/2019 2 5 Groceries 250 Essential Fruits and Vegetables
+06/08/2019 2 2 279 Converse
+07/02/2019 1 5 SMP_Press 360 Comissionfrom Music Scores (SOLD)
+11/10/2019 2 5 Postal_Fee 123.4 Received Post from my brother
+06/03/2019 2 2 360 Hollister
+08/03/2019 1 4 50 Heaven Sent Gift Delivery
+11/11/2019 1 2 9500 Credits
+19/07/2019 1 5 Private_tutor 360 Tutoring Mathematics for Primary School Students
+03/02/2019 1 2 28000 Residential Loan
+07/10/2019 2 1 45.512 Thalassic Restaurant
+23/02/2019 1 4 75 Glorious Gifts Shop
+10/06/2019 1 3 6500 Positive participator 2019
+06/06/2019 2 3 115 Campus event
+27/06/2019 1 3 10000 Prime Participation
+03/12/2019 1 3 30000 Sales Incentives
+25/08/2019 1 2 46000 Home Equity Loan (BOC)
+09/10/2019 1 1 65000 Health Insurance Coverage
+17/04/2019 1 2 22000 Credits
+13/07/2019 2 3 40 LKF
+18/01/2019 1 1 45000 Monthly Commisions
+18/07/2019 1 3 700 Customer Service Awards
+13/08/2019 2 1 45.512 New Korean BBQ
+26/01/2019 2 5 Internet 68 Monthly Internet Browsing Fee
+14/11/2019 2 3 231 Singer Concert
+24/11/2019 1 1 500 Overnight Salary
+12/08/2019 1 5 Voluntary_Teaching 740 Reward as Best Voluntary Teacher
+28/08/2019 2 5 Communication 1100 Monthly Prepaid SIM Card
+12/06/2019 1 3 15000 3 Cheers
+19/01/2019 2 5 Internet 164 Monthly Internet Browsing Fee
+18/08/2019 1 5 Photoshoot_Model 280 Paparazzi for Forbes Magazine
+12/01/2019 2 5 Groceries 68 Essential Fruits and Vegetables
+27/08/2019 2 4 80 Bus 40M
+03/06/2019 1 3 3500 Hackathon 2019
+19/01/2019 1 1 43000 Payroll
+12/03/2019 2 3 21.87 Street busking
+05/08/2019 1 4 160 This and That Gifts
+02/12/2019 1 1 1800 Meal Allowance
+19/12/2019 1 1 500 Meal Allowance
+20/03/2019 1 2 10500 Inventory Fee Loan
+16/05/2019 2 3 150 Movie Night
+04/01/2019 1 4 60 Charming Treasures
+08/11/2019 2 1 65.86 He She It Dessert
+27/12/2019 1 5 SMP_Press 280 Comissionfrom Music Scores (SOLD)
+15/03/2019 2 3 74.99 Street busking
+13/06/2019 1 2 28000 Credits
+17/09/2019 2 3 70 Street busking
+26/02/2019 1 5 SMP_Press 280 Comissionfrom Music Scores (SOLD)
+24/10/2019 1 2 46000 Personal Loan (HSBC)
+03/10/2019 2 4 80 Bus 970X
+22/12/2019 1 1 36000 Payroll
+25/01/2019 1 2 76000 Personal Loan (HSBC)
+14/12/2019 2 5 Furniture 78.9 Replacement of sofa
+03/02/2019 1 1 30500 Monthly salary
+01/08/2019 2 5 Postal_Fee 123.4 Received Post from my brother
+03/06/2019 2 5 Kitchen_Utensils 365 New Dough Mixer
+22/01/2019 1 1 4800 Health Insurance Coverage
+23/09/2019 2 3 70 Singer Concert
+26/11/2019 2 3 14.99 Campus event
+20/03/2019 1 3 15000 Hackathon 2019
+15/07/2019 2 3 66 Movie Night
+19/12/2019 1 3 9600 Fun Run (5K)
+24/12/2019 2 2 270 Adidas
+03/08/2019 2 5 School 40.85 Tuition Fee
+21/10/2019 2 2 279 H&M
+06/06/2019 1 3 16100 3 Cheers
+16/07/2019 2 1 37 Yuan is Here
+16/06/2019 1 3 30000 V21 Award
+12/07/2019 1 1 30500 Luncheon Voucher Payment
+12/07/2019 2 3 40.99 Campus event
+28/10/2019 1 2 20000 Business Loan
+13/01/2019 1 3 1000 Rockstar Rockie
+07/07/2019 1 2 9500 Industrial Loan
+01/10/2019 1 4 320 Diamond in the Rough
+06/04/2019 2 4 50.64 
+19/12/2019 1 2 28000 Business Loan
+21/08/2019 2 2 99.99 Adidas
+22/04/2019 2 1 98.6 Thalassic Restaurant
+27/03/2019 2 1 74 Buffet at Langham Palace (TST)
+16/03/2019 1 2 36000 Personal Loan (HSBC)
+28/04/2019 2 3 25.99 Movie Night
+24/05/2019 1 2 15000 Credits
+21/08/2019 2 4 21.87 Bus 8x
+08/10/2019 2 5 Automotive_Tax 123.4 Monthly Car Tax
+03/11/2019 2 5 Water_Fee 550 Monthly Water Supply Fee
+07/08/2019 2 1 47.12 Buffet at Langham Palace (TST)
+18/11/2019 2 5 School 164 Tuition Fee
+19/01/2019 1 3 4400 Fun Run (10K)
+07/08/2019 2 2 99 Levis
+25/06/2019 2 5 Internet 64.25 Monthly Internet Browsing Fee
+08/06/2019 2 1 120 Buffet at Langham Palace (TST)
+23/08/2019 1 3 9500 Superbly Safe
+20/08/2019 2 5 School 78.9 Tuition Fee
+14/10/2019 1 1 9900 Additional Salary
+19/05/2019 2 5 Furniture 250 Replacement of sofa
+12/06/2019 1 2 99000 Credits
+15/05/2019 1 4 320 Gifts of Love
+13/07/2019 1 1 36000 Meal Allowance
+07/01/2019 1 3 9600 Fun Run (10K)
+23/04/2019 1 3 16100 Lottery win Jockey Club
+16/10/2019 1 4 360 Sunset Gift Card
+10/04/2019 1 1 36000 Overnight Salary
+25/04/2019 2 4 50.64 Tram from Causeway Bay to HKU
+08/05/2019 1 2 25000 Home Equity Loan (BOC)
+27/10/2019 2 4 115 Tsim Tsa Tsui Ferry
+20/05/2019 1 2 74000 Home Equity Loan (BOC)
+05/05/2019 2 5 Kitchen_Utensils 36.2 New Dough Mixer
+06/02/2019 1 5 Photoshoot_Model 740 Paparazzi for Forbes Magazine
+16/09/2019 1 3 16100 V21 Award
+11/05/2019 1 1 20000 Additional Salary
+27/02/2019 2 2 279 Adidas
+25/02/2019 2 3 50.64 Campus event
+02/11/2019 1 3 800 Sales Incentives
+01/10/2019 1 4 220 Diamond in the Rough
+20/12/2019 1 5 Private_tutor 155 Tutoring Mathematics for Primary School Students
+03/01/2019 1 2 9800 Automobile Loan (BEA)
+26/02/2019 1 4 80 Diamond in the Rough
+27/09/2019 2 3 25.99 Campus event
+17/12/2019 2 1 42.4 North Viet Pho
+14/02/2019 2 5 Car_Maintenance 64.25 TESLA Color Finish
+02/11/2019 1 4 500 Once Upon a Trinket
+07/12/2019 2 4 231 MTR from Central to HKU
+20/09/2019 1 5 SMP_Press 360 Comissionfrom Music Scores (SOLD)
+18/11/2019 2 4 70 Bus 8x
+06/01/2019 1 3 3600 Wellcome Groceries Prize Redemption
+04/06/2019 1 5 Private_tutor 3680 Tutoring Mathematics for Primary School Students
+08/11/2019 1 2 48000 Business Loan
+25/06/2019 2 1 85 KFC
+15/04/2019 1 4 500 Clara's Cupboard
+24/07/2019 1 1 500 Travel Allowance
+28/07/2019 2 2 50 Zara
+21/04/2019 1 4 220 Hopscotch Toy Shop
+17/06/2019 2 3 47 Campus event
+12/11/2019 2 4 6.5 Bus 90B
+28/06/2019 2 1 74 Lunch at Ebeenezer
+23/12/2019 2 1 37 Lunch at Ebeenezer
+21/05/2019 1 2 76000 Residential Loan
+28/03/2019 2 2 449 G2000
+26/10/2019 1 3 3500 Excecutive Choice Award
+20/02/2019 1 4 500 Diamond in the Rough
+13/10/2019 2 3 80 Movie Night
+27/12/2019 2 1 7.6 Residential College Vending Machine
+01/10/2019 1 2 15000 Mortgages (Residential)
+06/11/2019 1 5 SMP_Press 88 Comissionfrom Music Scores (SOLD)
+04/10/2019 1 5 Photoshoot_Model 155 Paparazzi for Forbes Magazine
+05/09/2019 1 3 1500 Absolute Attendance Reward
+13/12/2019 1 1 7000 Travel Allowance
+13/06/2019 1 5 Voluntary_Teaching 745 Reward as Best Voluntary Teacher
+13/06/2019 2 1 39.88 Dinner in Tim Ho Wan
+01/07/2019 2 3 125.99 Movie Night
+20/04/2019 2 3 47 LKF
+24/02/2019 1 5 Voluntary_Teaching 110 Reward as Best Voluntary Teacher
+02/06/2019 2 2 49 H&M
+15/05/2019 1 5 SMP_Press 745 Comissionfrom Music Scores (SOLD)
+01/08/2019 2 4 50.64 Bus 8x
+04/08/2019 2 3 50.64 Street busking
+09/11/2019 1 5 SMP_Press 3680 Comissionfrom Music Scores (SOLD)
+26/12/2019 2 1 56 Shanghai Lao Lao
+18/04/2019 2 3 260 Movie Night
+02/08/2019 2 4 80 MTR from HKU to Tsim Tsa Tsui
+17/11/2019 1 5 Photoshoot_Model 90 Paparazzi for Forbes Magazine
+13/10/2019 2 2 123.3 Nike
+13/06/2019 1 3 700 Absolute Attendance Reward
+27/10/2019 2 2 139 Mango
+19/01/2019 2 4 74.99 MTR from Tsim Tsa Tsui to HKU
+24/01/2019 2 5 Water_Fee 64.22 Monthly Water Supply Fee
+20/09/2019 1 5 Private_tutor 3680 Tutoring Mathematics for Primary School Students
+01/01/2019 1 3 16100 Sales Incentives
+11/08/2019 2 5 Groceries 74.5 Essential Fruits and Vegetables
+02/11/2019 1 4 99 Heaven Sent Gift Delivery
+16/08/2019 2 5 Furniture 250 Replacement of sofa
+21/05/2019 2 4 14.99 Bus 7
+11/08/2019 2 1 74 Sodexo
+14/05/2019 1 1 500 Additional Salary
+27/09/2019 1 4 150 202 Whimsical Gift
+01/10/2019 2 1 42.4 Buffet at Langham Palace (TST)
+28/05/2019 1 4 360 This Old Attic
+16/02/2019 1 5 Product_Endorsement 280 Make-up Endorse (Instagram)
+27/01/2019 2 2 364.9 Giordano
+14/09/2019 2 4 80 Tsim Tsa Tsui Ferry
+06/09/2019 1 4 220 Clara's Cupboard
+11/04/2019 1 4 99 Glorious Gifts Shop
+01/05/2019 1 1 7000 Additional Salary
+26/08/2019 2 1 120 Dinner in Tim Ho Wan
+23/09/2019 2 1 120 Compulsary McDonald Breakfast
+07/04/2019 2 3 40 Street busking
+12/12/2019 2 1 37 Dinner in Tim Ho Wan
+05/04/2019 2 4 115 Bus 40M
+18/05/2019 1 1 1000 Meal Allowance
+23/04/2019 2 5 Laundry 36.2 Monthly laundry
+05/10/2019 2 5 Eletricity 123.4 Monthly House Eletricity Fee
+09/01/2019 2 1 7.6 North Viet Pho
+23/06/2019 2 1 43 Shanghai Lao Lao
+26/02/2019 1 2 10000 Home Equity Loan (BOC)
+24/05/2019 2 2 139 Converse
+12/02/2019 2 4 50.64 MTR from Tsim Tsa Tsui to HKU
+15/09/2019 1 4 200 To You and For me (Gift Card)
+08/01/2019 2 5 Kitchen_Utensils 60.99 New Dough Mixer
+10/12/2019 2 5 Postal_Fee 40.85 Received Post from my brother
+14/04/2019 2 5 Automotive_Tax 125 Monthly Car Tax
+11/04/2019 1 5 SMP_Press 155 Comissionfrom Music Scores (SOLD)
+28/09/2019 1 2 36000 Commercial Real Estate Loan
+11/05/2019 1 4 500 Glorious Gifts Shop
+22/02/2019 2 2 99.99 H&M
+02/02/2019 1 4 150 Clara's Cupboard
+05/09/2019 2 1 132 Residential College Vending Machine
+15/05/2019 1 3 45000 Customer Service Awards
+21/12/2019 2 2 139 Hollister
+02/01/2019 1 3 2300 V21 Award
+15/10/2019 1 3 1300 Sales Incentives
+11/06/2019 1 1 40000 Health Insurance Coverage
+03/06/2019 1 2 25000 Residential Loan
+09/05/2019 2 5 Communication 78.9 Monthly Prepaid SIM Card
+25/03/2019 1 1 65000 Health Insurance Coverage
+03/10/2019 2 4 50.64 MTR from Tsim Tsa Tsui to HKU
+07/08/2019 1 4 100 Hopscotch Toy Shop
+18/04/2019 2 1 132 Residential College Vending Machine
+23/05/2019 2 3 74.36 Singer Concert
+28/12/2019 1 4 75 Glorious Gifts Shop
+13/06/2019 1 3 1300 Excecutive Choice Award
+03/11/2019 1 1 35000 Overnight Salary
+03/03/2019 1 3 14000 Prime Participation
+25/08/2019 1 3 2300 V21 Award
+28/08/2019 2 3 6.5 Movie Night
+03/06/2019 2 3 66 Movie Night
+10/05/2019 1 2 88000 Business Loan
+24/08/2019 2 5 Furniture 123.4 Replacement of sofa
+16/05/2019 1 3 3600 Customer Service Awards
+24/09/2019 2 5 Water_Fee 123.4 Monthly Water Supply Fee
+19/03/2019 1 3 45000 Customer Service Awards
+28/07/2019 2 5 Water_Fee 300 Monthly Water Supply Fee
+19/01/2019 1 4 100 Gifts of Love
+16/11/2019 1 1 4800 Luncheon Voucher Payment
+28/05/2019 1 4 50 Riverside Gift Shop
+27/08/2019 2 1 50.4 KFC
+14/05/2019 2 5 Eletricity 300 Monthly House Eletricity Fee
+22/08/2019 2 2 279 BAPE
+26/02/2019 2 2 69 Bossini
+16/05/2019 2 2 139 Converse
+23/04/2019 1 4 220 Glorious Gifts Shop
+28/08/2019 1 1 500 Payroll
+20/12/2019 1 4 250 This Old Attic
+27/11/2019 2 4 25.99 Bus 54Bus 54M
+11/10/2019 1 5 SMP_Press 100 Comissionfrom Music Scores (SOLD)
+24/06/2019 1 3 45000 Superbly Safe
+09/04/2019 2 5 Laundry 40.85 Monthly laundry
+06/07/2019 1 4 80 Glorious Gifts Shop
+03/03/2019 2 3 25.99 Singer Concert
+06/12/2019 2 1 74 Sodexo
+25/05/2019 2 3 25.99 Movie Night
+05/04/2019 2 3 36.99 Street busking
+25/10/2019 1 1 2750 Meal Allowance
+18/09/2019 2 4 150 Bus 90B
+15/11/2019 2 1 74 Fresco dim sum
+07/10/2019 1 5 Photoshoot_Model 360 Paparazzi for Forbes Magazine
+22/05/2019 2 4 70 Bus 40M
+08/05/2019 2 1 64 Lunch at Ebeenezer
+21/02/2019 1 1 500 Meal Allowance
+09/11/2019 1 2 99000 Mortgages (Residential)
+11/06/2019 1 5 SMP_Press 740 Comissionfrom Music Scores (SOLD)
+10/10/2019 1 4 99 LEGO Gift Card
+25/03/2019 2 4 14.99 Bus 54Bus 54M
+16/06/2019 1 5 Product_Endorsement 850 Make-up Endorse (Instagram)
+19/01/2019 1 4 60 Glorious Gifts Shop
+26/03/2019 2 4 14.99 MTR from HKU to Tsim Tsa Tsui
+09/08/2019 2 1 64 New Korean BBQ
+24/06/2019 2 3 115 Singer Concert
+25/02/2019 1 5 Photoshoot_Model 110 Paparazzi for Forbes Magazine
+19/06/2019 1 3 1300 Customer Service Awards
+07/02/2019 1 1 50000 Base Pay
+06/10/2019 2 4 150 Central Ferry
+25/10/2019 1 1 4800 Additional Salary
+20/08/2019 2 1 88 Residential College Vending Machine
+09/12/2019 1 3 30000 Customer Service Awards
+13/08/2019 1 4 75 This Old Attic
+14/04/2019 2 1 88 Shanghai Lao Lao
+13/06/2019 2 3 21.87 Campus event
+25/08/2019 2 5 Postal_Fee 64.22 Received Post from my brother
+07/12/2019 2 5 School 250 Tuition Fee
+26/04/2019 1 3 1300 Customer Service Awards
+15/04/2019 1 2 9800 Personal Loan (HSBC)
+27/06/2019 2 4 74.36 Bus 40M
+27/01/2019 1 4 80 The Warm House,Log Cabin Keepsakes
+04/01/2019 1 4 100 LEGO Gift Card
+06/12/2019 1 2 5000 Mortgages (Residential)
+17/06/2019 2 1 7.6 Buffet at Langham Palace (TST)
+26/04/2019 1 2 10000 Personal Loan (HSBC)
+27/04/2019 1 2 9500 Personal Loan (HSBC)
+22/06/2019 2 4 6.5 MTR from Tsim Tsa Tsui to HKU
+24/10/2019 2 4 74.36 Bus 90B
+20/06/2019 2 1 42.4 He She It Dessert
+02/09/2019 1 4 100 Heaven Sent Gift Delivery
+06/06/2019 1 1 43000 Base Pay
+26/02/2019 2 2 49 American Eagle
+13/09/2019 1 5 SMP_Press 2200 Comissionfrom Music Scores (SOLD)
+26/07/2019 1 4 500 This and That Gifts
+22/07/2019 1 5 Private_tutor 740 Tutoring Mathematics for Primary School Students
+28/09/2019 1 3 45000 Sales Incentives
+19/04/2019 1 5 Voluntary_Teaching 360 Reward as Best Voluntary Teacher
+08/06/2019 1 1 7000 Health Insurance Coverage
+10/05/2019 2 2 430.5 AAPE
+24/08/2019 2 5 Car_Maintenance 40.85 TESLA Color Finish
+09/06/2019 1 5 Photoshoot_Model 360 Paparazzi for Forbes Magazine
+05/07/2019 1 5 Photoshoot_Model 100 Paparazzi for Forbes Magazine
+13/05/2019 2 5 Furniture 300 Replacement of sofa
+01/07/2019 1 3 1000 Hackathon 2019
+16/02/2019 1 2 20000 Business Loan
+16/08/2019 2 1 45.512 KFC
+03/03/2019 1 1 9900 Health Insurance Coverage
+04/05/2019 2 4 25.99 Bus 90B
+25/02/2019 2 5 Water_Fee 60.99 Monthly Water Supply Fee
+21/07/2019 1 1 20000 Base Pay
+13/05/2019 1 2 48000 Inventory Fee Loan
+12/02/2019 1 5 SMP_Press 500 Comissionfrom Music Scores (SOLD)
+10/05/2019 2 1 42.4 Shanghai Lao Lao
+10/02/2019 1 4 160 Hopscotch Toy Shop
+12/07/2019 1 2 10000 Inventory Fee Loan
+11/08/2019 1 5 Photoshoot_Model 250.5 Paparazzi for Forbes Magazine
+18/03/2019 2 4 74.36 MTR from HKU to Central
+28/02/2019 1 3 9500 Sales Incentives
+26/06/2019 2 1 64 HKU CYM
+18/03/2019 2 1 50.4 HKU CYM
+03/06/2019 2 2 69 Giordano
+08/10/2019 2 5 Communication 1100 Monthly Prepaid SIM Card
+10/07/2019 1 3 4100 Fun Run (5K)
+19/07/2019 2 3 14.99 LKF
+20/05/2019 1 4 360 To You and For me (Gift Card)
+28/07/2019 1 5 Photoshoot_Model 360 Paparazzi for Forbes Magazine
+03/04/2019 2 5 Car_Maintenance 365 TESLA Color Finish
+06/04/2019 2 3 47 Movie Night
+27/03/2019 2 5 School 74.5 Tuition Fee
+05/12/2019 2 1 47.12 North Viet Pho
+26/08/2019 2 1 56 Fresco dim sum
+11/01/2019 1 5 Voluntary_Teaching 155 Reward as Best Voluntary Teacher
+18/07/2019 1 5 Voluntary_Teaching 88 Reward as Best Voluntary Teacher
+22/09/2019 2 1 88 KFC
+03/01/2019 2 2 279 Uniclo
+13/07/2019 1 5 Product_Endorsement 360.5 Make-up Endorse (Instagram)
+09/08/2019 1 5 Photoshoot_Model 320 Paparazzi for Forbes Magazine
+06/07/2019 2 4 150 Central Ferry
+23/12/2019 1 3 2300 Excecutive Choice Award
+07/05/2019 1 4 60 202 Whimsical Gift
+08/12/2019 1 4 200 Riverside Gift Shop
+19/04/2019 2 1 64 Residential College Vending Machine
+24/05/2019 2 3 25.99 Street busking
+28/05/2019 1 3 2300 Fun Run (5K)
+27/06/2019 1 2 48000 Home Equity Loan (BOC)
+07/01/2019 1 1 30500 Travel Allowance
+26/06/2019 1 2 99000 Automobile Loan (BEA)
+04/03/2019 1 5 Private_tutor 740 Tutoring Mathematics for Primary School Students
+03/06/2019 2 3 125.99 Street busking
+11/05/2019 1 4 320 202 Whimsical Gift
+11/06/2019 2 5 Automotive_Tax 365 Monthly Car Tax
+15/03/2019 2 3 150 LKF
+08/06/2019 1 2 64000 Automobile Loan (BEA)
+13/02/2019 2 3 50.64 Campus event
+08/04/2019 2 5 Eletricity 125 Monthly House Eletricity Fee
+23/06/2019 2 5 Postal_Fee 74.5 Received Post from my brother
+28/09/2019 2 4 50.64 MTR from Tsim Tsa Tsui to HKU
+26/05/2019 1 4 100 Hopscotch Toy Shop
+13/04/2019 1 2 25000 Credits
+08/01/2019 1 3 9500 Customer Service Awards
+09/10/2019 2 5 Water_Fee 64.25 Monthly Water Supply Fee
+22/08/2019 2 2 430.5 Giordano
+28/03/2019 2 1 85 Residential College Vending Machine
+02/07/2019 2 5 Water_Fee 85 Monthly Water Supply Fee
+28/04/2019 1 1 40000 Additional Salary
+01/06/2019 2 1 88 KFC
+18/02/2019 1 3 16100 Customer Service Awards
+08/02/2019 2 4 231 Tram from HKU to Causeway Bay
+02/02/2019 1 2 9800 Credits
+10/03/2019 1 5 Voluntary_Teaching 500 Reward as Best Voluntary Teacher
+23/05/2019 2 4 6.5 MTR from Central to HKU
+20/04/2019 2 2 119.99 Converse
+04/02/2019 2 5 Automotive_Tax 300 Monthly Car Tax
+08/03/2019 1 1 45000 Monthly Commisions
+09/02/2019 1 1 43000 Monthly Commisions
+16/09/2019 2 5 Eletricity 1100 Monthly House Eletricity Fee
+05/07/2019 2 3 21.87 LKF
+12/02/2019 2 3 25.99 Singer Concert
+06/01/2019 2 2 123.3 Converse
+17/09/2019 1 2 88000 Inventory Fee Loan
+14/01/2019 1 2 48000 Inventory Fee Loan
+10/08/2019 2 1 64 Dinner in Tim Ho Wan
+21/03/2019 2 2 285.2 Hollister
+23/05/2019 1 2 88000 Mortgages (Residential)
+03/10/2019 1 1 500 Payroll
+09/12/2019 2 5 Postal_Fee 74.5 Received Post from my brother
+27/10/2019 1 5 Private_tutor 140 Tutoring Mathematics for Primary School Students
+06/07/2019 1 3 4100 Prime Participation
+24/01/2019 2 1 29.12 KFC
+06/02/2019 2 3 40 LKF
+24/09/2019 2 1 74 New Korean BBQ
+05/01/2019 1 4 90 The Warm House,Log Cabin Keepsakes
+27/02/2019 1 5 Photoshoot_Model 3680 Paparazzi for Forbes Magazine
+07/03/2019 2 1 85 Sodexo
+26/11/2019 2 1 85 Sodexo
+12/04/2019 2 2 69 Zara
+23/09/2019 2 1 64 New Korean BBQ
+19/09/2019 2 5 Car_Maintenance 60.99 TESLA Color Finish
+27/03/2019 1 1 36000 Meal Allowance
+10/03/2019 1 3 6500 Fun Run (5K)
+25/04/2019 1 5 Voluntary_Teaching 3680 Reward as Best Voluntary Teacher
+02/10/2019 1 2 99000 Automobile Loan (BEA)
+13/03/2019 2 4 47 MTR from Tsim Tsa Tsui to HKU
+21/08/2019 1 5 Private_tutor 850 Tutoring Mathematics for Primary School Students
+09/04/2019 2 5 Internet 74.5 Monthly Internet Browsing Fee
+13/09/2019 2 4 150 MTR from HKU to Central
+19/03/2019 1 3 14000 V21 Award
+18/12/2019 1 3 45000 Associate Appretiation
+16/05/2019 1 1 3600 Additional Salary
+23/02/2019 1 5 Product_Endorsement 500 Make-up Endorse (Instagram)
+19/05/2019 2 2 119.99 Levis
+16/01/2019 2 5 Groceries 64.25 Essential Fruits and Vegetables
+09/01/2019 2 5 Internet 1100 Monthly Internet Browsing Fee
+20/12/2019 2 4 40 Central Ferry
+04/12/2019 2 1 45.512 New Korean BBQ
+11/01/2019 1 2 74000 Mortgages (Residential)
+26/11/2019 2 2 139 H&M
+17/04/2019 2 4 115 MTR from HKU to Tsim Tsa Tsui
+16/03/2019 1 4 220 To You and For me (Gift Card)
+05/11/2019 1 2 22000 Residential Loan
+07/06/2019 2 3 80 Campus event
+18/01/2019 1 1 7000 Payroll
+25/10/2019 1 3 10000 Wellcome Groceries Prize Redemption
+06/07/2019 2 5 Internet 1100 Monthly Internet Browsing Fee
+23/05/2019 1 5 Voluntary_Teaching 360.5 Reward as Best Voluntary Teacher
+14/03/2019 1 3 10000 Prime Participation
+22/10/2019 2 3 231 Street busking
+09/11/2019 2 3 74.36 Campus event
+28/11/2019 2 2 50 American Eagle
+17/07/2019 2 2 49 G2000
+01/04/2019 2 4 21.87 MTR from HKU to Central
+19/03/2019 2 3 47 LKF
+01/03/2019 2 5 Communication 36.2 Monthly Prepaid SIM Card
+10/07/2019 2 3 40.99 Street busking
+04/04/2019 2 5 Eletricity 85 Monthly House Eletricity Fee
+05/11/2019 2 2 279 Uniclo
+04/07/2019 1 1 65000 Overnight Salary
+12/01/2019 1 1 36000 Meal Allowance
+22/12/2019 2 1 7.6 Thalassic Restaurant
+04/01/2019 1 1 8800 Overnight Salary
+16/02/2019 1 1 8800 Additional Salary
+19/07/2019 2 1 88 Dinner in Tim Ho Wan
+14/04/2019 2 2 270 Adidas
+07/07/2019 2 2 139 Adidas
+15/08/2019 2 4 36.99 Tram from Causeway Bay to HKU
+18/02/2019 1 5 Private_tutor 500 Tutoring Mathematics for Primary School Students
+05/06/2019 1 2 74000 Mortgages (Residential)
+22/04/2019 2 1 47.12 KFC
+07/08/2019 1 1 4800 Additional Salary
+20/06/2019 2 1 78.7 Thalassic Restaurant
+22/09/2019 1 1 30500 Base Pay
+06/04/2019 2 5 Electronics 64.25 Phone Repair
+06/07/2019 2 4 80 MTR from HKU to Central
+02/02/2019 2 1 132 Sodexo
+27/12/2019 2 4 47 
+21/03/2019 1 1 20000 Meal Allowance
+24/09/2019 1 2 48000 Residential Loan
+09/06/2019 2 4 50.64 Bus 90B
+07/02/2019 2 3 14.99 Street busking
+22/01/2019 1 1 45000 Payroll
+26/09/2019 2 2 99 Uniclo
+22/03/2019 2 1 98.6 Thalassic Restaurant
+28/10/2019 1 4 200 This and That Gifts
+15/01/2019 2 5 Groceries 44.99 Essential Fruits and Vegetables
+03/02/2019 1 4 160 Hopscotch Toy Shop
+20/07/2019 1 4 100 Sunset Gift Card
+28/02/2019 1 5 Voluntary_Teaching 155 Reward as Best Voluntary Teacher
+25/12/2019 2 2 49 Adidas
+12/02/2019 1 5 Private_tutor 850 Tutoring Mathematics for Primary School Students
+11/07/2019 2 2 99.99 Levis
+27/02/2019 2 4 115 Tram from Causeway Bay to HKU
+22/12/2019 2 3 66 Movie Night
+22/08/2019 2 4 36.99 MTR from Central to HKU
+01/07/2019 1 2 64000 Credits
+09/04/2019 1 5 SMP_Press 280 Comissionfrom Music Scores (SOLD)
+21/12/2019 1 2 28000 Credits
+17/04/2019 1 5 Photoshoot_Model 745 Paparazzi for Forbes Magazine
+19/11/2019 2 4 150 Bus 54Bus 54M
+06/07/2019 1 1 8800 Travel Allowance
+12/05/2019 2 2 49 Converse
+05/05/2019 1 4 220 Diamond in the Rough
+22/11/2019 2 5 Laundry 75.99 Monthly laundry
+01/07/2019 1 4 750 Once Upon a Trinket
+11/09/2019 1 3 6500 Fun Run (5K)
+19/08/2019 2 3 14.99 Street busking
+24/09/2019 1 1 45000 Payroll
+14/06/2019 2 5 Furniture 75.99 Replacement of sofa
+20/05/2019 1 3 1300 Fun Run (10K)
+14/09/2019 2 1 74 Residential College Vending Machine
+19/11/2019 1 2 46000 Home Equity Loan (BOC)
+17/03/2019 2 4 74.36 Bus 40M
+26/05/2019 1 5 SMP_Press 88 Comissionfrom Music Scores (SOLD)
+13/07/2019 1 1 8800 Base Pay
+03/04/2019 1 1 4800 Monthly salary
+16/11/2019 1 5 SMP_Press 110 Comissionfrom Music Scores (SOLD)
+07/05/2019 1 2 10000 Credits
+05/05/2019 2 5 Groceries 36.2 Essential Fruits and Vegetables
+10/09/2019 1 5 Voluntary_Teaching 250.5 Reward as Best Voluntary Teacher
+26/09/2019 1 5 Private_tutor 155 Tutoring Mathematics for Primary School Students
+11/03/2019 1 3 15000 Absolute Attendance Reward
+25/09/2019 1 2 22000 Industrial Loan
+17/04/2019 1 2 10000 Home Equity Loan (BOC)
+09/03/2019 2 4 44.99 Central Ferry
+18/02/2019 1 4 150 Heaven Sent Gift Delivery
+17/07/2019 2 5 Housing 74.5 LED Bulbs
+02/02/2019 1 5 Product_Endorsement 745 Make-up Endorse (Instagram)
+22/01/2019 1 4 50 202 Whimsical Gift
+15/11/2019 2 3 66 Singer Concert
+04/05/2019 1 3 1500 Excecutive Choice Award
+07/06/2019 2 1 64 Yuan is Here
+06/01/2019 2 1 88 He She It Dessert
+01/08/2019 2 2 99.99 American Eagle
+24/02/2019 2 3 70 Street busking
+11/09/2019 2 1 47.12 Residential College Vending Machine
+17/02/2019 1 4 80 LEGO Gift Card
+08/07/2019 1 1 20000 Overnight Salary
+05/01/2019 2 4 66 MTR from Central to HKU
+18/03/2019 1 2 10500 Business Loan
+18/07/2019 1 2 88000 Commercial Real Estate Loan
+06/02/2019 2 5 School 85 Tuition Fee
+22/05/2019 2 5 Eletricity 123.4 Monthly House Eletricity Fee
+08/07/2019 2 5 Groceries 64.22 Essential Fruits and Vegetables
+01/03/2019 2 5 Postal_Fee 64.25 Received Post from my brother
+09/10/2019 2 1 98.6 Shanghai Lao Lao
+09/01/2019 1 5 Voluntary_Teaching 500 Reward as Best Voluntary Teacher
+14/09/2019 2 2 285.2 American Eagle
+26/09/2019 2 4 74.36 Bus 970X
+02/11/2019 1 3 700 Prime Participation
+05/04/2019 1 5 SMP_Press 500 Comissionfrom Music Scores (SOLD)
+11/05/2019 2 5 Furniture 40.85 Replacement of sofa
+01/03/2019 1 2 74000 Personal Loan (HSBC)
+13/04/2019 2 4 40.99 Bus 54Bus 54M
+12/08/2019 1 4 500 This and That Gifts
+07/11/2019 2 1 64 He She It Dessert
+11/10/2019 1 1 40000 Payroll
+22/06/2019 2 1 37 Residential College Vending Machine
+05/09/2019 2 2 279 Mango
+03/06/2019 1 1 1000 Travel Allowance
+04/05/2019 2 5 Electronics 60.99 Phone Repair
+03/04/2019 2 4 115 MTR from HKU to Tsim Tsa Tsui
+21/01/2019 1 4 200 Heaven Sent Gift Delivery
+26/12/2019 1 3 4400 Associate Appretiation
+06/03/2019 1 5 SMP_Press 850 Comissionfrom Music Scores (SOLD)
+17/01/2019 1 2 25000 Automobile Loan (BEA)
+09/07/2019 1 4 360 Hopscotch Toy Shop
+04/02/2019 2 1 65.86 Residential College Vending Machine
+10/04/2019 2 5 Internet 36.2 Monthly Internet Browsing Fee
+03/04/2019 2 3 260 Street busking
+12/11/2019 2 4 150 Bus 970X
+19/07/2019 1 3 30000 Hackathon 2019
+08/06/2019 2 4 50.64 Tram from Causeway Bay to HKU
+24/05/2019 2 1 120 Sodexo
+07/02/2019 1 2 22000 Commercial Real Estate Loan
+24/08/2019 2 1 7.6 Buffet at Langham Palace (TST)
+21/08/2019 1 2 15000 Home Equity Loan (BOC)
+15/07/2019 2 5 Kitchen_Utensils 250 New Dough Mixer
+22/04/2019 2 4 74.36 MTR from HKU to Central
+05/07/2019 2 1 42.4 Yuan is Here
+01/07/2019 2 1 64 HKU CYM
+28/03/2019 1 4 100 Charming Treasures
+10/04/2019 1 1 4800 Overnight Salary
+27/07/2019 2 5 Groceries 164 Essential Fruits and Vegetables
+21/10/2019 2 4 70 MTR from HKU to Central
+02/08/2019 2 5 Electronics 40.85 Phone Repair
+08/04/2019 1 2 64000 Inventory Fee Loan
+07/08/2019 2 5 Car_Maintenance 300 TESLA Color Finish
+04/04/2019 1 1 50000 Additional Salary
+09/08/2019 1 2 22000 Mortgages (Residential)
+11/12/2019 1 4 200 Riverside Gift Shop
+03/05/2019 1 4 100 Charming Treasures
+28/06/2019 1 1 1000 Overnight Salary
+07/11/2019 1 2 20000 Mortgages (Residential)
+07/10/2019 2 3 74.36 Movie Night
+04/11/2019 1 5 Private_tutor 500 Tutoring Mathematics for Primary School Students
+23/10/2019 1 5 Product_Endorsement 110 Make-up Endorse (Instagram)
+17/09/2019 2 3 231 Singer Concert
+22/05/2019 1 2 31000 Commercial Real Estate Loan
+08/06/2019 1 4 160 The Warm House,Log Cabin Keepsakes
+09/11/2019 1 4 160 202 Whimsical Gift
+22/02/2019 2 4 115 MTR from HKU to Tsim Tsa Tsui
+04/04/2019 2 2 99.99 BAPE
+27/05/2019 1 3 6500 Lottery win Jockey Club
+03/08/2019 2 1 39.88 Shanghai Lao Lao
+28/02/2019 2 5 Kitchen_Utensils 60.99 New Dough Mixer
+05/11/2019 2 2 360 Hollister
+12/04/2019 1 5 Product_Endorsement 90 Make-up Endorse (Instagram)
+15/09/2019 1 3 4100 Superbly Safe
+05/01/2019 2 2 360 AAPE
+05/03/2019 2 5 Internet 68 Monthly Internet Browsing Fee
+23/08/2019 1 3 6500 Superbly Safe
+01/06/2019 2 1 120 HKU CYM
+25/10/2019 2 1 7.6 Morning Starbucks
+05/04/2019 1 5 Voluntary_Teaching 90 Reward as Best Voluntary Teacher
+27/03/2019 2 2 50 Nike
+26/01/2019 2 5 Kitchen_Utensils 36.2 New Dough Mixer
+18/02/2019 1 1 35000 Base Pay
+21/12/2019 1 2 22000 Industrial Loan
+11/03/2019 1 2 9500 Personal Loan (HSBC)
+21/02/2019 2 5 Eletricity 75.99 Monthly House Eletricity Fee
+27/08/2019 2 5 School 85 Tuition Fee
+21/11/2019 1 2 36000 Commercial Real Estate Loan
+11/06/2019 1 2 76000 Home Equity Loan (BOC)
+08/03/2019 1 1 99000 Payroll
+14/09/2019 1 1 20000 Luncheon Voucher Payment
+07/03/2019 2 2 364.9 Bossini
+06/09/2019 2 5 Groceries 300 Essential Fruits and Vegetables
+14/12/2019 2 1 65.86 New Korean BBQ
+28/11/2019 1 4 99 Once Upon a Trinket
+09/07/2019 2 2 430.5 Hollister
+27/03/2019 1 5 Voluntary_Teaching 250.5 Reward as Best Voluntary Teacher
+17/06/2019 2 4 40.99 MTR from Central to HKU
+28/08/2019 2 4 66 MTR from Central to HKU
+18/10/2019 1 2 5000 Home Equity Loan (BOC)
+23/01/2019 1 4 160 Clara's Cupboard
+27/07/2019 1 3 4400 Lottery win Jockey Club
+16/05/2019 1 1 3600 Luncheon Voucher Payment
+20/04/2019 2 1 56 KFC
+27/02/2019 2 4 74.36 Bus 970X
+19/10/2019 2 1 43 Sodexo
+09/10/2019 1 4 50 Riverside Gift Shop
+13/06/2019 2 4 74.99 Central Ferry
+17/11/2019 1 4 90 Clara's Cupboard
+19/09/2019 2 1 65.86 Morning Starbucks
+06/11/2019 2 4 40 Bus 90B
+24/08/2019 2 3 70 Street busking
+21/06/2019 1 5 Photoshoot_Model 280 Paparazzi for Forbes Magazine
+21/12/2019 1 2 48000 Home Equity Loan (BOC)
+14/06/2019 1 4 150 This and That Gifts
+11/08/2019 1 5 Private_tutor 320 Tutoring Mathematics for Primary School Students
+18/08/2019 2 1 64 Sodexo
+20/09/2019 1 2 20000 Automobile Loan (BEA)
+04/02/2019 1 2 20000 Personal Loan (HSBC)
+17/02/2019 1 2 76000 Commercial Real Estate Loan
+21/09/2019 1 5 SMP_Press 88 Comissionfrom Music Scores (SOLD)
+26/05/2019 2 2 119.99 AAPE
+17/04/2019 1 5 SMP_Press 850 Comissionfrom Music Scores (SOLD)
+15/12/2019 1 1 65000 Payroll
+15/01/2019 1 2 20000 Inventory Fee Loan
+22/03/2019 1 1 65000 Payroll
+23/11/2019 2 1 29.12 Residential College Vending Machine
+22/05/2019 2 2 99.99 Bossini
+25/07/2019 2 1 45.512 Yuan is Here
+22/06/2019 1 2 15000 Residential Loan
+25/11/2019 1 1 45000 Base Pay
+25/05/2019 1 4 75 Once Upon a Trinket
+14/08/2019 2 5 Postal_Fee 300 Received Post from my brother
+16/10/2019 1 1 9900 Monthly salary
+19/07/2019 1 3 2300 Rockstar Rockie
+05/09/2019 1 1 20000 Travel Allowance
+17/03/2019 2 1 78.7 Yuan is Here
+07/03/2019 1 5 SMP_Press 745 Comissionfrom Music Scores (SOLD)
+21/05/2019 1 5 Product_Endorsement 360 Make-up Endorse (Instagram)
+26/01/2019 1 3 700 Wellcome Groceries Prize Redemption
+05/12/2019 2 4 231 Bus 40M
+01/04/2019 1 1 50000 Monthly salary
+02/10/2019 1 2 36000 Residential Loan
+17/08/2019 1 2 99000 Home Equity Loan (BOC)
+19/11/2019 1 5 Product_Endorsement 745 Make-up Endorse (Instagram)
+01/04/2019 1 2 25000 Home Equity Loan (BOC)
+17/01/2019 2 5 Laundry 250 Monthly laundry
+23/04/2019 1 1 2750 Overnight Salary
+25/12/2019 1 1 60000 Base Pay
+08/04/2019 1 3 1300 Lottery win Jockey Club
+17/03/2019 2 4 231 Bus 54Bus 54M
+18/01/2019 1 3 1300 Positive participator 2019
+27/03/2019 1 5 Private_tutor 280 Tutoring Mathematics for Primary School Students
+25/10/2019 2 4 66 MTR from HKU to Tsim Tsa Tsui
+03/10/2019 1 5 Voluntary_Teaching 88 Reward as Best Voluntary Teacher
+13/01/2019 2 3 115 LKF
+19/03/2019 1 1 3600 Meal Allowance
+04/10/2019 2 1 47.12 Buffet at Langham Palace (TST)
+04/05/2019 2 2 559 H&M
+23/08/2019 2 4 50.64 MTR from Tsim Tsa Tsui to HKU
+15/01/2019 1 2 64000 Inventory Fee Loan
+13/06/2019 1 2 5000 Credits
+25/04/2019 1 5 SMP_Press 88 Comissionfrom Music Scores (SOLD)
+01/03/2019 2 2 69 AAPE
+28/09/2019 1 4 100 Heaven Sent Gift Delivery
+23/09/2019 2 5 Eletricity 125 Monthly House Eletricity Fee
+06/03/2019 2 4 80 Central Ferry
+23/11/2019 1 4 75 Riverside Gift Shop
+27/01/2019 1 1 1000 Health Insurance Coverage
+25/09/2019 1 4 90 Gifts of Love
+25/06/2019 1 2 15000 Commercial Real Estate Loan
+25/05/2019 1 3 9500 Superbly Safe
+21/07/2019 1 3 800 Wellcome Groceries Prize Redemption
+25/07/2019 2 2 279 Nike
+25/04/2019 2 2 99 H&M
+19/09/2019 1 1 50000 Overnight Salary
+01/10/2019 2 4 150 MTR from Tsim Tsa Tsui to HKU
+14/11/2019 1 2 22000 Industrial Loan
+19/02/2019 1 1 60000 Monthly Commisions
+27/09/2019 2 2 139 Giordano
+19/10/2019 2 5 Eletricity 44.99 Monthly House Eletricity Fee
+09/11/2019 2 3 74.36 LKF
+13/02/2019 2 5 Housing 68 LED Bulbs
+17/01/2019 1 3 15000 Sales Incentives
+24/11/2019 1 5 Private_tutor 745 Tutoring Mathematics for Primary School Students
+14/08/2019 1 5 Voluntary_Teaching 3680 Reward as Best Voluntary Teacher
+27/07/2019 2 3 14.99 Singer Concert
+04/07/2019 2 1 37 New Korean BBQ
+03/12/2019 1 1 30500 Monthly salary
+02/06/2019 1 1 8800 Meal Allowance
+09/02/2019 1 4 80 Heaven Sent Gift Delivery
+10/07/2019 2 1 88 New Korean BBQ
+24/10/2019 1 1 30500 Base Pay
+24/01/2019 1 3 14000 Associate Appretiation
+05/08/2019 1 1 36000 Health Insurance Coverage
+26/06/2019 1 1 45000 Travel Allowance
+25/08/2019 2 5 Communication 164 Monthly Prepaid SIM Card
+03/08/2019 1 5 Photoshoot_Model 950 Paparazzi for Forbes Magazine
+15/09/2019 1 3 1000 Rockstar Rockie
+14/08/2019 1 4 360 Sunset Gift Card
+11/02/2019 1 2 10000 Industrial Loan
+28/07/2019 2 3 40 Campus event
+19/01/2019 2 4 66 MTR from HKU to Tsim Tsa Tsui
+20/09/2019 1 1 65000 Travel Allowance
+08/01/2019 1 5 Photoshoot_Model 360.5 Paparazzi for Forbes Magazine
+10/06/2019 2 3 150 LKF
+24/03/2019 2 2 559 Zara
+15/01/2019 1 1 20000 Meal Allowance
+21/12/2019 1 5 Voluntary_Teaching 90 Reward as Best Voluntary Teacher
+20/07/2019 2 3 47 LKF
+04/01/2019 1 1 1000 Luncheon Voucher Payment
+01/02/2019 2 1 45.512 HKU CYM
+03/06/2019 1 1 20000 Base Pay
+12/07/2019 2 2 174.6 Adidas
+12/03/2019 1 3 2300 Customer Service Awards
+09/01/2019 1 5 Voluntary_Teaching 2200 Reward as Best Voluntary Teacher
+12/05/2019 1 1 4800 Monthly Commisions
+07/06/2019 2 2 279 Adidas
+08/09/2019 1 4 90 This and That Gifts
+25/09/2019 1 4 50 To You and For me (Gift Card)
+02/07/2019 1 1 7000 Luncheon Voucher Payment
+22/05/2019 1 3 45000 Hackathon 2019
+21/04/2019 2 3 125.99 Movie Night
+10/02/2019 2 5 School 40.85 Tuition Fee
+28/08/2019 2 2 98.99 Zara
+25/02/2019 1 5 Voluntary_Teaching 90 Reward as Best Voluntary Teacher
+20/10/2019 1 5 SMP_Press 500 Comissionfrom Music Scores (SOLD)
+21/01/2019 1 1 45000 Additional Salary
+26/09/2019 1 2 25000 Commercial Real Estate Loan
+08/12/2019 1 5 SMP_Press 360.5 Comissionfrom Music Scores (SOLD)
+28/09/2019 1 3 700 Superbly Safe
+22/10/2019 1 4 60 Charming Treasures
+27/10/2019 2 5 School 123.4 Tuition Fee
+16/01/2019 2 2 49 Uniclo
+09/07/2019 2 1 37 Yuan is Here
+25/01/2019 2 1 78.7 Sodexo
+11/05/2019 2 4 74.36 Tram from HKU to Causeway Bay
+21/10/2019 2 3 115 Singer Concert
+09/05/2019 1 4 6417048 Riverside Gift Shop
+11/03/2019 1 2 76000 Credits
+17/11/2019 2 5 Car_Maintenance 44.99 TESLA Color Finish
+04/08/2019 2 2 360 Hollister
+25/10/2019 1 2 5000 Commercial Real Estate Loan
+13/11/2019 2 5 School 36.2 Tuition Fee
+08/01/2019 2 1 7.6 KFC
+19/03/2019 2 4 80 Tram from Causeway Bay to HKU
+07/03/2019 1 2 25000 Credits
+06/09/2019 1 2 15000 Personal Loan (HSBC)
+28/05/2019 2 1 88 HKU CYM
+14/04/2019 2 2 528.6 AAPE
+27/02/2019 2 2 279 Adidas
+22/11/2019 1 2 31000 Mortgages (Residential)
+16/08/2019 1 5 Voluntary_Teaching 320 Reward as Best Voluntary Teacher
+03/01/2019 1 3 6500 Lottery win Jockey Club
+12/05/2019 1 3 15000 3 Cheers
+03/01/2019 2 1 39.88 HKU CYM
+28/05/2019 1 1 8800 Base Pay
+03/02/2019 1 1 8800 Meal Allowance
+10/03/2019 1 4 50 Diamond in the Rough
+01/12/2019 2 3 40 Campus event
+17/05/2019 1 1 1800 Additional Salary
+02/12/2019 2 4 66 
+28/08/2019 2 4 6.5 MTR from Central to HKU
+19/09/2019 1 1 8800 Payroll
+11/03/2019 1 2 76000 Inventory Fee Loan
+02/04/2019 2 4 74.99 MTR from HKU to Central
+02/03/2019 1 4 500 Clara's Cupboard
+16/09/2019 2 4 231 MTR from Tsim Tsa Tsui to HKU
+08/07/2019 2 2 449 Mango
+16/02/2019 1 4 99 This Old Attic
+06/05/2019 1 3 14000 Fun Run (5K)
+21/12/2019 2 5 Furniture 1100 Replacement of sofa
+12/01/2019 2 4 74.99 Bus 54Bus 54M
+08/08/2019 2 2 139 Giordano
+01/05/2019 1 5 Product_Endorsement 850 Make-up Endorse (Instagram)
+17/12/2019 1 3 800 Associate Appretiation
+15/02/2019 1 4 200 Diamond in the Rough
+04/03/2019 1 2 48000 Inventory Fee Loan
+01/05/2019 1 4 500 Diamond in the Rough
+24/05/2019 1 4 160 Once Upon a Trinket
+03/03/2019 1 3 9600 Positive participator 2019
+15/07/2019 2 2 50 Uniclo
+18/05/2019 1 2 10000 Industrial Loan
+25/10/2019 1 1 40000 Payroll
+09/03/2019 2 5 Furniture 125 Replacement of sofa
+13/01/2019 2 4 44.99 MTR from HKU to Tsim Tsa Tsui
+23/01/2019 2 1 47.12 Compulsary McDonald Breakfast
+26/12/2019 2 1 78.7 Residential College Vending Machine
+18/08/2019 1 4 750 Gifts of Love
+11/11/2019 2 2 49 Uniclo
+24/05/2019 2 3 6.5 Street busking
+06/08/2019 2 5 School 85 Tuition Fee
+28/07/2019 1 4 500 Gifts of Love
+02/04/2019 1 2 36000 Inventory Fee Loan
+20/05/2019 2 4 150 Bus 40M
+18/07/2019 1 3 4100 V21 Award
+17/03/2019 1 2 88000 Home Equity Loan (BOC)
+01/02/2019 1 3 4100 Fun Run (5K)
+02/01/2019 1 1 43000 Luncheon Voucher Payment
+07/10/2019 1 3 9600 Excecutive Choice Award
+05/08/2019 2 2 75.66 Zara
+25/10/2019 2 1 29.12 Thalassic Restaurant
+06/04/2019 1 5 SMP_Press 360 Comissionfrom Music Scores (SOLD)
+16/06/2019 2 1 64 Yuan is Here
+10/06/2019 2 3 21.87 Street busking
+07/01/2019 2 4 260 MTR from Central to HKU
+16/03/2019 1 3 3500 Rockstar Rockie
+27/06/2019 1 3 6500 Hackathon 2019
+26/05/2019 1 1 45000 Additional Salary
+15/11/2019 1 2 25000 Inventory Fee Loan
